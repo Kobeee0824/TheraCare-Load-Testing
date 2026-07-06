@@ -1,0 +1,65 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1783353109362,652,https://theracareweb.online/self_assessment.php,200,OK,Thread Group 1-1,text,true,,28771,1076,1,1,https://theracareweb.online/landing.php,367,0,137
+1783353109362,367,https://theracareweb.online/self_assessment.php-0,302,Found,Thread Group 1-1,text,true,,627,519,1,1,https://theracareweb.online/self_assessment.php,367,0,137
+1783353109730,284,https://theracareweb.online/self_assessment.php-1,200,OK,Thread Group 1-1,text,true,,28144,557,1,1,https://theracareweb.online/landing.php,232,0,0
+1783353132752,493,https://theracareweb.online/self_assessment.php?step=1,200,OK,Thread Group 1-1,text,true,,28708,1300,1,1,https://theracareweb.online/landing.php,249,0,0
+1783353132752,249,https://theracareweb.online/self_assessment.php?step=1-0,302,Found,Thread Group 1-1,text,true,,564,694,1,1,https://theracareweb.online/self_assessment.php,249,0,0
+1783353133002,243,https://theracareweb.online/self_assessment.php?step=1-1,200,OK,Thread Group 1-1,text,true,,28144,606,1,1,https://theracareweb.online/landing.php,225,0,0
+1783353135692,468,https://theracareweb.online/self_assessment.php?step=2,200,OK,Thread Group 1-1,text,true,,28708,1274,1,1,https://theracareweb.online/landing.php,224,0,0
+1783353135692,224,https://theracareweb.online/self_assessment.php?step=2-0,302,Found,Thread Group 1-1,text,true,,564,668,1,1,https://theracareweb.online/self_assessment.php,224,0,0
+1783353135916,244,https://theracareweb.online/self_assessment.php?step=2-1,200,OK,Thread Group 1-1,text,true,,28144,606,1,1,https://theracareweb.online/landing.php,227,0,0
+1783353139818,476,https://theracareweb.online/self_assessment.php?step=3,200,OK,Thread Group 1-1,text,true,,28715,1277,1,1,https://theracareweb.online/landing.php,231,0,0
+1783353139818,231,https://theracareweb.online/self_assessment.php?step=3-0,302,Found,Thread Group 1-1,text,true,,564,671,1,1,https://theracareweb.online/self_assessment.php,231,0,0
+1783353140050,244,https://theracareweb.online/self_assessment.php?step=3-1,200,OK,Thread Group 1-1,text,true,,28151,606,1,1,https://theracareweb.online/landing.php,227,0,0
+1783353146873,482,https://theracareweb.online/home.php,200,OK,Thread Group 1-1,text,true,,28705,1111,1,1,https://theracareweb.online/landing.php,228,0,0
+1783353146873,228,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-1,text,true,,561,554,1,1,https://theracareweb.online/home.php,228,0,0
+1783353147102,253,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-1,text,true,,28144,557,1,1,https://theracareweb.online/landing.php,237,0,0
+1783353109361,2571,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,143607,6038,1,1,null,1299,35423,137
+1783353273142,642,https://theracareweb.online/self_assessment.php,200,OK,Thread Group 1-1,text,true,,28771,1076,1,1,https://theracareweb.online/landing.php,364,0,136
+1783353273142,364,https://theracareweb.online/self_assessment.php-0,302,Found,Thread Group 1-1,text,true,,627,519,1,1,https://theracareweb.online/self_assessment.php,364,0,136
+1783353273507,277,https://theracareweb.online/self_assessment.php-1,200,OK,Thread Group 1-1,text,true,,28144,557,1,1,https://theracareweb.online/landing.php,226,0,0
+1783353277140,5269,https://theracareweb.online/self_assessment.php,200,OK,Thread Group 1-3,text,true,,28771,1076,3,3,https://theracareweb.online/landing.php,358,0,126
+1783353277140,358,https://theracareweb.online/self_assessment.php-0,302,Found,Thread Group 1-3,text,true,,627,519,3,3,https://theracareweb.online/self_assessment.php,358,0,126
+1783353277498,4911,https://theracareweb.online/self_assessment.php-1,200,OK,Thread Group 1-3,text,true,,28144,557,3,3,https://theracareweb.online/landing.php,4852,0,0
+1783353296525,694,https://theracareweb.online/self_assessment.php?step=1,200,OK,Thread Group 1-1,text,true,,28708,1300,3,3,https://theracareweb.online/landing.php,428,0,0
+1783353296525,428,https://theracareweb.online/self_assessment.php?step=1-0,302,Found,Thread Group 1-1,text,true,,564,694,3,3,https://theracareweb.online/self_assessment.php,428,0,0
+1783353296954,265,https://theracareweb.online/self_assessment.php?step=1-1,200,OK,Thread Group 1-1,text,true,,28144,606,3,3,https://theracareweb.online/landing.php,246,0,0
+1783353275139,24433,https://theracareweb.online/self_assessment.php,200,OK,Thread Group 1-2,text,true,,28772,1076,3,3,https://theracareweb.online/landing.php,1984,0,122
+1783353275139,1984,https://theracareweb.online/self_assessment.php-0,302,Found,Thread Group 1-2,text,true,,627,519,3,3,https://theracareweb.online/self_assessment.php,1984,0,122
+1783353277123,22449,https://theracareweb.online/self_assessment.php-1,200,OK,Thread Group 1-2,text,true,,28145,557,3,3,https://theracareweb.online/landing.php,22396,0,0
+1783353299665,466,https://theracareweb.online/self_assessment.php?step=2,200,OK,Thread Group 1-1,text,true,,28708,1274,3,3,https://theracareweb.online/landing.php,224,0,0
+1783353299665,224,https://theracareweb.online/self_assessment.php?step=2-0,302,Found,Thread Group 1-1,text,true,,564,668,3,3,https://theracareweb.online/self_assessment.php,224,0,0
+1783353299890,241,https://theracareweb.online/self_assessment.php?step=2-1,200,OK,Thread Group 1-1,text,true,,28144,606,3,3,https://theracareweb.online/landing.php,223,0,0
+1783353303806,472,https://theracareweb.online/self_assessment.php?step=3,200,OK,Thread Group 1-1,text,true,,28708,1277,3,3,https://theracareweb.online/landing.php,227,0,0
+1783353303806,227,https://theracareweb.online/self_assessment.php?step=3-0,302,Found,Thread Group 1-1,text,true,,564,671,3,3,https://theracareweb.online/self_assessment.php,227,0,0
+1783353304034,244,https://theracareweb.online/self_assessment.php?step=3-1,200,OK,Thread Group 1-1,text,true,,28144,606,3,3,https://theracareweb.online/landing.php,226,0,0
+1783353310864,484,https://theracareweb.online/home.php,200,OK,Thread Group 1-1,text,true,,28705,1111,3,3,https://theracareweb.online/landing.php,239,0,0
+1783353310864,239,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-1,text,true,,561,554,3,3,https://theracareweb.online/home.php,239,0,0
+1783353311103,245,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-1,text,true,,28144,557,3,3,https://theracareweb.online/landing.php,227,0,0
+1783353273141,2758,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,143600,6038,3,3,null,1482,35448,136
+1783353305156,34434,https://theracareweb.online/self_assessment.php?step=1,200,OK,Thread Group 1-3,text,true,,28708,1300,2,2,https://theracareweb.online/landing.php,952,0,0
+1783353305156,952,https://theracareweb.online/self_assessment.php?step=1-0,302,Found,Thread Group 1-3,text,true,,564,694,2,2,https://theracareweb.online/self_assessment.php,952,0,0
+1783353306108,33482,https://theracareweb.online/self_assessment.php?step=1-1,200,OK,Thread Group 1-3,text,true,,28144,606,2,2,https://theracareweb.online/landing.php,33461,0,0
+1783353342042,613,https://theracareweb.online/self_assessment.php?step=2,200,OK,Thread Group 1-3,text,true,,28708,1274,2,2,https://theracareweb.online/landing.php,338,0,111
+1783353342042,338,https://theracareweb.online/self_assessment.php?step=2-0,302,Found,Thread Group 1-3,text,true,,564,668,2,2,https://theracareweb.online/self_assessment.php,338,0,111
+1783353342380,275,https://theracareweb.online/self_assessment.php?step=2-1,200,OK,Thread Group 1-3,text,true,,28144,606,2,2,https://theracareweb.online/landing.php,220,0,0
+1783353346318,461,https://theracareweb.online/self_assessment.php?step=3,200,OK,Thread Group 1-3,text,true,,28708,1277,2,2,https://theracareweb.online/landing.php,219,0,0
+1783353346318,219,https://theracareweb.online/self_assessment.php?step=3-0,302,Found,Thread Group 1-3,text,true,,564,671,2,2,https://theracareweb.online/self_assessment.php,219,0,0
+1783353346538,241,https://theracareweb.online/self_assessment.php?step=3-1,200,OK,Thread Group 1-3,text,true,,28144,606,2,2,https://theracareweb.online/landing.php,220,0,0
+1783353322324,28293,https://theracareweb.online/self_assessment.php?step=1,Non HTTP response code: org.apache.http.ConnectionClosedException,Non HTTP response message: Premature end of chunk coded message body: closing chunk expected,Thread Group 1-2,text,false,,2542,694,2,2,https://theracareweb.online/landing.php,2768,0,0
+1783353322324,2768,https://theracareweb.online/self_assessment.php?step=1-0,302,Found,Thread Group 1-2,text,true,,564,694,2,2,https://theracareweb.online/self_assessment.php,2768,0,0
+1783353325092,25525,https://theracareweb.online/self_assessment.php?step=1-1,Non HTTP response code: org.apache.http.ConnectionClosedException,Non HTTP response message: Premature end of chunk coded message body: closing chunk expected,Thread Group 1-2,text,false,,1978,0,2,2,https://theracareweb.online/landing.php,0,0,0
+1783353353074,623,https://theracareweb.online/self_assessment.php?step=2,200,OK,Thread Group 1-2,text,true,,28708,1274,2,2,https://theracareweb.online/landing.php,339,0,112
+1783353353074,339,https://theracareweb.online/self_assessment.php?step=2-0,302,Found,Thread Group 1-2,text,true,,564,668,2,2,https://theracareweb.online/self_assessment.php,339,0,112
+1783353353414,283,https://theracareweb.online/self_assessment.php?step=2-1,200,OK,Thread Group 1-2,text,true,,28144,606,2,2,https://theracareweb.online/landing.php,223,0,0
+1783353353370,486,https://theracareweb.online/home.php,200,OK,Thread Group 1-3,text,true,,28705,1111,2,2,https://theracareweb.online/landing.php,237,0,0
+1783353353370,237,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-3,text,true,,561,554,2,2,https://theracareweb.online/home.php,237,0,0
+1783353353608,248,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-3,text,true,,28144,557,2,2,https://theracareweb.online/landing.php,228,0,0
+1783353277139,41263,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-3,,true,,143600,6038,2,2,null,2104,35453,237
+1783353357363,490,https://theracareweb.online/self_assessment.php?step=3,200,OK,Thread Group 1-2,text,true,,28708,1277,1,1,https://theracareweb.online/landing.php,235,0,0
+1783353357363,235,https://theracareweb.online/self_assessment.php?step=3-0,302,Found,Thread Group 1-2,text,true,,564,671,1,1,https://theracareweb.online/self_assessment.php,235,0,0
+1783353357598,255,https://theracareweb.online/self_assessment.php?step=3-1,200,OK,Thread Group 1-2,text,true,,28144,606,1,1,https://theracareweb.online/landing.php,230,0,0
+1783353364433,493,https://theracareweb.online/home.php,200,OK,Thread Group 1-2,text,true,,28705,1111,1,1,https://theracareweb.online/landing.php,243,0,0
+1783353364433,243,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-2,text,true,,561,554,1,1,https://theracareweb.online/home.php,243,0,0
+1783353364677,249,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-2,text,true,,28144,557,1,1,https://theracareweb.online/landing.php,226,0,0
+1783353275138,54332,Test,,"Number of samples in transaction : 5, number of failing samples : 1",Thread Group 1-2,,false,,117435,5432,1,1,null,5569,35456,234

@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1783356374987,48946,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-1,text,false,,5597,1070,1,1,https://theracareweb.online/login.php,2484,0,328
+1783356374987,2485,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-1,text,true,,625,515,1,1,https://theracareweb.online/appointment.php,2484,0,328
+1783356377473,46460,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-1,text,false,,4972,555,1,1,https://theracareweb.online/login.php,46459,0,0
+1783356435162,700,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-1,text,false,,5531,1116,1,1,https://theracareweb.online/login.php,350,0,118
+1783356435162,350,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-1,text,true,,559,561,1,1,https://theracareweb.online/appointment.php,350,0,118
+1783356435513,349,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-1,text,false,,4972,555,1,1,https://theracareweb.online/login.php,348,0,0
+1783356439322,510,https://theracareweb.online/home.php,200,OK,Thread Group 1-1,text,true,,28705,1111,1,1,https://theracareweb.online/landing.php,223,0,0
+1783356439322,223,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-1,text,true,,561,554,1,1,https://theracareweb.online/home.php,223,0,0
+1783356439546,286,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-1,text,true,,28144,557,1,1,https://theracareweb.online/landing.php,232,0,0
+1783356374985,50156,Test,,"Number of samples in transaction : 3, number of failing samples : 2",Thread Group 1-1,,false,,39833,3297,1,1,null,3057,14692,446
+1783356703493,570,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-1,text,false,,5545,1070,1,1,https://theracareweb.online/login.php,350,0,123
+1783356703493,350,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-1,text,true,,625,515,1,1,https://theracareweb.online/appointment.php,350,0,123
+1783356703844,219,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-1,text,false,,4920,555,1,1,https://theracareweb.online/login.php,218,0,0
+1783356715280,442,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-1,text,false,,5479,1116,3,3,https://theracareweb.online/login.php,222,0,0
+1783356715280,222,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-1,text,true,,559,561,3,3,https://theracareweb.online/appointment.php,222,0,0
+1783356715503,219,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-1,text,false,,4920,555,3,3,https://theracareweb.online/login.php,217,0,0
+1783356719167,491,https://theracareweb.online/home.php,200,OK,Thread Group 1-1,text,true,,28705,1111,3,3,https://theracareweb.online/landing.php,218,0,0
+1783356719167,218,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-1,text,true,,561,554,3,3,https://theracareweb.online/home.php,218,0,0
+1783356719386,272,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-1,text,true,,28144,557,3,3,https://theracareweb.online/landing.php,225,0,0
+1783356703490,1503,Test,,"Number of samples in transaction : 3, number of failing samples : 2",Thread Group 1-1,,false,,39729,3297,3,3,null,790,14667,123
+1783356705494,45240,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-2,text,false,,5545,1070,2,2,https://theracareweb.online/login.php,2209,0,112
+1783356705494,2209,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-2,text,true,,625,515,2,2,https://theracareweb.online/appointment.php,2209,0,112
+1783356707704,43030,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-2,text,false,,4920,555,2,2,https://theracareweb.online/login.php,43028,0,0
+1783356707493,46223,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-3,text,false,,5597,1070,2,2,https://theracareweb.online/login.php,3343,0,134
+1783356707493,3343,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-3,text,true,,625,515,2,2,https://theracareweb.online/appointment.php,3343,0,134
+1783356710837,42879,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-3,text,false,,4972,555,2,2,https://theracareweb.online/login.php,42877,0,0
+1783356761957,623,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-2,text,false,,5540,1116,2,2,https://theracareweb.online/login.php,570,0,0
+1783356761957,570,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-2,text,true,,559,561,2,2,https://theracareweb.online/appointment.php,570,0,0
+1783356762527,53,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-2,text,false,,4981,555,2,2,https://theracareweb.online/login.php,50,0,0
+1783356764943,817,https://theracareweb.online/appointment.php,404,Not Found,Thread Group 1-3,text,false,,5479,1116,2,2,https://theracareweb.online/login.php,583,0,0
+1783356764943,583,https://theracareweb.online/appointment.php-0,302,Found,Thread Group 1-3,text,true,,559,561,2,2,https://theracareweb.online/appointment.php,583,0,0
+1783356765527,233,https://theracareweb.online/appointment.php-1,404,Not Found,Thread Group 1-3,text,false,,4920,555,2,2,https://theracareweb.online/login.php,229,0,0
+1783356766030,972,https://theracareweb.online/home.php,200,OK,Thread Group 1-2,text,true,,28712,1111,2,2,https://theracareweb.online/landing.php,674,0,113
+1783356766030,675,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-2,text,true,,561,554,2,2,https://theracareweb.online/home.php,674,0,113
+1783356766705,297,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-2,text,true,,28151,557,2,2,https://theracareweb.online/landing.php,225,0,0
+1783356705492,46835,Test,,"Number of samples in transaction : 3, number of failing samples : 2",Thread Group 1-2,,false,,39797,3297,2,2,null,3453,14676,225
+1783356769216,649,https://theracareweb.online/home.php,200,OK,Thread Group 1-3,text,true,,28705,1111,1,1,https://theracareweb.online/landing.php,354,0,127
+1783356769216,354,https://theracareweb.online/home.php-0,302,Found,Thread Group 1-3,text,true,,561,554,1,1,https://theracareweb.online/home.php,354,0,127
+1783356769571,294,https://theracareweb.online/home.php-1,200,OK,Thread Group 1-3,text,true,,28144,557,1,1,https://theracareweb.online/landing.php,229,0,0
+1783356707491,47689,Test,,"Number of samples in transaction : 3, number of failing samples : 2",Thread Group 1-3,,false,,39781,3297,1,1,null,4280,14685,261

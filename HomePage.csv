@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1783342807642,518,HomePage,200,OK,HomePage Test 1-1,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,458,0,141
+1783342808640,418,HomePage,200,OK,HomePage Test 1-2,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,363,0,111
+1783342809639,382,HomePage,200,OK,HomePage Test 1-3,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,330,0,103
+1783342810642,393,HomePage,200,OK,HomePage Test 1-4,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,337,0,114
+1783342811643,435,HomePage,200,OK,HomePage Test 1-5,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,369,0,137
+1783342812644,374,HomePage,200,OK,HomePage Test 1-6,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,323,0,106
+1783342813640,389,HomePage,200,OK,HomePage Test 1-7,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,334,0,112
+1783342814638,398,HomePage,200,OK,HomePage Test 1-8,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,342,0,116
+1783342815638,399,HomePage,200,OK,HomePage Test 1-9,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,342,0,115
+1783342816642,447,HomePage,200,OK,HomePage Test 1-10,text,true,,28144,192,1,1,https://theracareweb.online/landing.php,387,0,120
